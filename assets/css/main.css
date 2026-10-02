@@ -3783,3 +3783,11 @@ input, select, textarea {
 			}
 
 		}
+
+/* AKZA'S FONT EDITS*/
+.old-name {
+    font-family: Georgia, serif;
+    font-size: 0.85em;
+    font-style: italic;
+    opacity: 0.75;
+}
