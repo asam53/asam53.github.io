@@ -3816,3 +3816,12 @@ input, select, textarea {
     font-weight: 300;
     letter-spacing: 0.01em;
 }
+
+#header {
+    background: linear-gradient(
+        135deg,
+        #071c17 0%,
+        #123d30 45%,
+        #285943 100%
+    );
+}
