@@ -3817,20 +3817,11 @@ input, select, textarea {
     letter-spacing: 0.01em;
 }
 
-#header {
-    background: linear-gradient(
-        135deg,
-        #071c17 0%,
-        #123d30 45%,
-        #285943 100%
-    );
+/*font color*/
+body {
+    background: #071c17;
 }
 
-body {
-    background: linear-gradient(
-        135deg,
-        #071c17 0%,
-        #123d30 45%,
-        #285943 100%
-    );
+#header {
+    background: #071c17;
 }
