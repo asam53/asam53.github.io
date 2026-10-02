@@ -3784,25 +3784,47 @@ input, select, textarea {
 
 		}
 
-/* AKZA'S FONT EDITS*/
+/* AKZA'S FONT EDITS
 .old-name {
     font-family: Georgia, serif;
     font-size: 0.85em;
     font-style: italic;
     opacity: 0.75;
 }
-
+*/
 /*
 .main-name {
     font-family: Georgia, serif;
     font-weight: 700;
     font-size: 3.8em;
     letter-spacing: 0.03em;
-}
-*/
+}*/
+/*
 .main-name {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 3.8em;
     letter-spacing: 0.05em;
+}*/
+.main-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 3.8em;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.2em;
+}
+
+.old-name {
+    font-family: Georgia, serif;
+    font-size: 0.85em;
+    font-style: italic;
+    opacity: 0.75;
+    margin-bottom: 1.2em;
+}
+
+.subtitle {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.15em;
+    font-weight: 300;
+    letter-spacing: 0.01em;
 }
