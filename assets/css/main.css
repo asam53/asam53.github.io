@@ -3792,9 +3792,17 @@ input, select, textarea {
     opacity: 0.75;
 }
 
+/*
 .main-name {
     font-family: Georgia, serif;
     font-weight: 700;
     font-size: 3.8em;
     letter-spacing: 0.03em;
+}
+*/
+.main-name {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 3.8em;
+    letter-spacing: 0.05em;
 }
