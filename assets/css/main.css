@@ -3791,3 +3791,10 @@ input, select, textarea {
     font-style: italic;
     opacity: 0.75;
 }
+
+.main-name {
+    font-family: Georgia, serif;
+    font-weight: 700;
+    font-size: 3.8em;
+    letter-spacing: 0.03em;
+}
