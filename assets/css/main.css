@@ -3825,3 +3825,12 @@ input, select, textarea {
         #285943 100%
     );
 }
+
+body {
+    background: linear-gradient(
+        135deg,
+        #071c17 0%,
+        #123d30 45%,
+        #285943 100%
+    );
+}
